@@ -15,12 +15,19 @@
         top: 100px;
     }
 
+    #career {
+      width: 1048px;
+      text-align: center;
+      position: relative;
+      top: 150px;
+    }
+
     #tool {
       width : 1048px;
       height: 300px;
       text-align: center;
       position: relative;
-      top: 60px;
+      top: 210px;
     }
 
     #portfolio {
@@ -28,7 +35,7 @@
       height: 200px;
       text-align: center;
       position: relative;
-      top: 500px;
+      top: 700px;
     }
 
     #collaboration {
@@ -36,7 +43,7 @@
       height: 300px;
       text-align: center;
       position: relative;
-      top: 900px;
+      top: 1100px;
     }
 
     #sns {
@@ -44,7 +51,7 @@
       height: 300px;
       text-align: center;
       position: relative;
-      top: 1200px;
+      top: 1300px;
     }
 
     #table {
