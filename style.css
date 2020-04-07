@@ -1,0 +1,120 @@
+
+    #intro {
+      width : 1048px;
+      height: 480px;
+      text-align: center;
+      background-image: url("https://p0.pikrepo.com/preview/473/576/person-holding-silver-iphone-6.jpg"), linear-gradient(to bottom, #ADB2B6, #ABAEB3);
+      background-size: 1048px 480px;
+      position: relative;
+    }
+
+    #profile {
+        width : 1048px;
+        text-align: center;
+        position: relative;
+        top: 100px;
+    }
+
+    #tool {
+      width : 1048px;
+      height: 300px;
+      text-align: center;
+      position: relative;
+      top: 60px;
+    }
+
+    #portfolio {
+      width : 1048px;
+      height: 200px;
+      text-align: center;
+      position: relative;
+      top: 500px;
+    }
+
+    #collaboration {
+      width : 1048px;
+      height: 300px;
+      text-align: center;
+      position: relative;
+      top: 900px;
+    }
+
+    #sns {
+      width : 1048px;
+      height: 300px;
+      text-align: center;
+      position: relative;
+      top: 1200px;
+    }
+
+    #table {
+      text-align: center;
+      position: relative;
+    }
+
+    .font {
+      font-family: 'Righteous', cursive;
+    }
+
+    .fontsecond {
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 20px;
+    }
+
+    .fontthird {
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .large {
+        font-size: 150px;
+    }
+
+    .big {
+      font-size: 70px;
+      font-weight: 1000 bold;
+    }
+
+    .semibig{
+        font-size: 50px;
+    }
+
+    .mid {
+        font-size: 40px;
+        font-weight: 800 bold;
+    }
+
+    .sml {
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+    .white {
+        color: white;
+    }
+
+    .salmon {
+        color: salmon;
+    }
+
+    table {
+        border-collapse: separate;
+        border-spacing: 50px;
+        text-align: center;
+        table-layout: fixed;
+        width: 70%;
+        height: 100px;
+        margin: auto;
+    }
+
+    th {
+        display: table-cell;
+        background-color: salmon;
+        color: white;
+        padding: 15px;
+    }
+
+    td {
+         display: table-cell;
+         vertical-align: middle;
+         height:50px;
+    }
